@@ -11,7 +11,7 @@ fontSize = 20;
 
 
 folder = pwd;
-baseFileName = 'vid2.mp4';
+baseFileName = 'GreenSharpie.wmv';
 fullFileName = fullfile(folder, baseFileName);
 
 % Check if the video file actually exists in the current folder
